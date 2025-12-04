@@ -5,7 +5,7 @@ Fuente - A simple source/fountain implementation
 
 class Fuente:
     """
-    A source/fountain class that can generate and provide data.
+    A source/fountain class that stores and provides data.
     """
     
     def __init__(self, name="Fuente"):
